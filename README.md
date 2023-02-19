@@ -1,4 +1,4 @@
-# PlagiarismChecker-using-Python
+# File Comparing-using-Python
 File content comparing to find the percentage of plagiarism 
 1) Add the contents of the main file in the corpus
 2) Transform the main file into the form of vector
